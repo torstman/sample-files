@@ -7,6 +7,7 @@ categories:
 - project_dh
 - teaching
 tags:
+- draft
 - teaching
 - tools
 - plain text
@@ -17,7 +18,11 @@ tags:
 - jekyll
 ---
 
-Disclaimer: many of the ideas have been inspired by the work of Alex Gil and Denis Tenen[^1] and discussions with the two of them and others at DHI Beirut, THATCamp Beirut, and DHSI.
+*DRAFT*
+
+Disclaimer 1: many of the ideas have been inspired by the work of Alex Gil (@[elotroalex](https://twitter.com/elotroalex)) and Denis Tenen (@[dennistenen](https://twitter.com//dennistenen))[^1] and discussions with the two of them and others at DHI Beirut, THATCamp Beirut, and DHSI.
+
+Disclaimer 2: I am teaching a short workshop on some of the ideas in this post at [Digital Humanities Institute - Beirut](https://dhibeirut.wordpress.com/) on Friday, 10 March 2017. Basic slides will be made available [here](https://tillgrallert.github.io/Slides/2017-dhi-beirut/).
 
 # Intro
 
@@ -36,7 +41,7 @@ We argue that by doing so the main argument for restrictive copyright---namely, 
 The main principles in our effort to (re)claim the means of production are: accessibility, simplicity, sustainability, and credibility. They shall pertain both to the intellectual endeavour and to the tools employed.
 
 1. *Accessibility*. Accessible means first of all free and open to use and re-purpose for all that have the technical ability to do. Therefore we will have to forfeit all proprietary software and formats. From the imperative of openness and accessibility derive the second and third principles:
-2. *Simplicity*: apart from the necessity to be able read and write in a specific human language, there should be as few tools, hardware and software requirements as possible. Ideally everything should work on ten-year old hardware and nothing but the software packaged with the operating system.
+2. *Simplicity*: apart from the necessity to be able read and write in a specific human language, there should be as few tools, hardware and software requirements as possible. Ideally everything should work on ten-year old hardware and nothing but the software packaged with the operating system---or even better: the core technologies should work without a computer.
 3. *Sustainability*: only simple systems adhering to widely accepted standards can be sustained with minimal / reasonable effort.
 4. *Credibility*: Credibility is at the core of scholarly production. In addition to transparency as to the sources, methodology, and tools used, authorship needs to be ascertained and acknowledged as the main tool of scholarly quality control.
 
@@ -116,6 +121,7 @@ How to deal with sensitive data / material, that should not be publicly accessib
 
 ## Use of git and GitHub in the humanities
 
+- makerlab at UVic: [git/github in 20 steps](https://github.com/uvicmakerlab/dhsi2015/blob/master/git.md)
 - Chad Black's [getting started with github and prose.io](https://parezcoydigo.wordpress.com/2013/08/26/getting-started-with-github-and-prose-io/) on using a combination of GitHub, jekyll, and prose.io for a collaborative seminar [blog](http://dh.chadblack.net/info/all_posts/).
 - [GitHub, Academia, and Collaborative Writing](http://www.hastac.org/blogs/harrisonm/2013/10/12/github-academia-and-collaborative-writing)
 - [Push, Pull, Fork: GitHub for Academics](http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/)
